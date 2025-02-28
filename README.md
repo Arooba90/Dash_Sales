@@ -15,7 +15,6 @@ The dataset used for this project is **Sample Sales Data** from Kaggle: [Sample 
 
 ## Technologies Used
 
-- **Dash** (for building the web application)
-- **Plotly** (for interactive visualizations)
+- **Dash**  (for building the web application and interactive visualizations)
 - **Dash Bootstrap Components** (for styling and layout)
 - **Pandas** (for data processing)
