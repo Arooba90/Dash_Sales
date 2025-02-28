@@ -1,6 +1,6 @@
 # Sales Dashboard
 
-This project is a **Sales Dashboard** built using Python with **Dash, Plotly, and Dash Bootstrap Components**. The dashboard visualizes sales data with interactive charts and graphs, providing insights into monthly and yearly sales trends, as well as sales distribution across different countries.
+This project is a **Sales Dashboard** built using Python with **Dash, and Dash Bootstrap Components**. The dashboard visualizes sales data with interactive charts and graphs, providing insights into monthly and yearly sales trends, as well as sales distribution across different countries.
 
 ## Dataset
 
